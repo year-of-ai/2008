@@ -7,24 +7,19 @@
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Beijing Summer Olympics (Aug 8–24, 2008) | content | high |
-| Deep-dive: Large Hadron Collider first beam (Sep 10, 2008) | content | high |
-| Deep-dive: SpaceX Falcon 1 first orbital launch (Sep 28, 2008) | content | high |
+| Deep-dive: Mumbai terrorist attacks (Nov 26–29, 2008) | content | high |
+| Deep-dive: TARP bailout signing (Oct 3, 2008) | content | high |
+| Deep-dive: Russia-Georgia war (Aug 2008) | content | medium |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Mumbai terrorist attacks (Nov 26–29, 2008) | content | high |
 | Deep-dive: Bernie Madoff Ponzi scheme (Dec 11, 2008) | content | medium |
-| Deep-dive: TARP bailout signing (Oct 3, 2008) | content | medium |
-| Deep-dive: Russia-Georgia war (Aug 2008) | content | medium |
 | Deep-dive: Cyclone Nargis, Myanmar (May 2–3, 2008) | content | medium |
 | Deep-dive: Usain Bolt 100m world record (Aug 16, 2008) | content | medium |
 | Deep-dive: *The Dark Knight* release (Jul 18, 2008) | content | medium |
 | Deep-dive: *Twilight* film release (Nov 21, 2008) | content | low |
-| Generate category index pages (all 5 slugs) | structure | medium |
-| Generate master INDEX.md | structure | medium |
 | Add cross-reference ## Related blocks to topic files | structure | medium |
 | Periodic /evolve audit of .github/ layer | meta | low |
 
@@ -36,6 +31,13 @@
 | Deep-dive: Lehman Brothers collapse and global financial crisis (Sep 15, 2008) | content | 2026-06-12 |
 | Deep-dive: Barack Obama election (Nov 4, 2008) | content | 2026-06-12 |
 | Generate TIMELINE.md from README knowledge table | structure | 2026-06-12 |
+| Deep-dive: Beijing Summer Olympics (Aug 8–24, 2008) | content | 2026-06-12 |
+| Deep-dive: Large Hadron Collider first beam (Sep 10, 2008) | content | 2026-06-12 |
+| Deep-dive: SpaceX Falcon 1 first orbital launch (Sep 28, 2008) | content | 2026-06-12 |
+| Generate category index pages (all 5 slugs) | structure | 2026-06-12 |
+| Generate master INDEX.md | structure | 2026-06-12 |
+| Add cross-reference ## Related blocks to existing topic files | structure | 2026-06-12 |
+| Update TIMELINE.md links to new dedicated files | structure | 2026-06-12 |
 
 ## Ideas
 

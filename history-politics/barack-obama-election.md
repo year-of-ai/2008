@@ -29,3 +29,9 @@ The electoral coalition Obama assembled — urban, younger, multiracial, and hig
 - https://en.wikipedia.org/wiki/Barack_Obama_2008_presidential_campaign — Wikipedia: Barack Obama 2008 presidential campaign
 - https://www.history.com/this-day-in-history/november-4/barack-obama-elected-as-americas-first-black-president — HISTORY.com: Barack Obama elected as America's first Black president
 - https://www.obama.org/stories/history/time-machine/ — Obama Foundation: A look back at the 2008 election
+
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Lehman Brothers Collapse](../society-economics/lehman-brothers-collapse.md) — The September 2008 financial crisis that dominated the final weeks of the election campaign and shaped Obama's economic mandate.
+<!-- END GENERATED: crossrefs -->

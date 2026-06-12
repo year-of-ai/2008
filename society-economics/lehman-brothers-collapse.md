@@ -29,3 +29,9 @@ The bankruptcy also prompted a fundamental re-examination of financial regulatio
 - https://www.history.com/this-day-in-history/september-15/lehman-brothers-collapses — HISTORY.com: Lehman Brothers declares bankruptcy, September 15, 2008
 - https://elischolar.library.yale.edu/journal-of-financial-crises/vol1/iss1/2/ — Yale Program on Financial Stability: "The Lehman Brothers Bankruptcy A: Overview" (Wiggins, Piontek et al.)
 - https://www.congress.gov/event/110th-congress/house-event/LC9548/text — US Congress: "The Causes and Effects of the Lehman Brothers Bankruptcy" (House hearing transcript)
+
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama Presidential Election](../history-politics/barack-obama-election.md) — The financial crisis catalysed by the Lehman collapse became the dominant issue in the November 2008 presidential election.
+<!-- END GENERATED: crossrefs -->

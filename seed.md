@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2008 is the current instance, spawned from the year 2007.
 
-**Generation status: growing** — 1 tick completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
+**Generation status: growing** — 2 ticks completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
 
 ## 3. Architecture (customization layer)
 
@@ -80,21 +80,25 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2008` (13 rows; 2 rows link to dedicated files).
-- **Dedicated topic files:** 2
+- **Knowledge table:** `README.md` → `## Notable Events of 2008` (13 rows; 5 rows link to dedicated files).
+- **Dedicated topic files:** 5
   - `history-politics/barack-obama-election.md` — Barack Obama Presidential Election (2008-11-04)
+  - `history-politics/beijing-summer-olympics.md` — 2008 Beijing Summer Olympics (2008-08-08)
+  - `science-technology/large-hadron-collider-first-beam.md` — Large Hadron Collider First Beam (2008-09-10)
+  - `science-technology/spacex-falcon-1-orbital-launch.md` — SpaceX Falcon 1 First Orbital Launch (2008-09-28)
   - `society-economics/lehman-brothers-collapse.md` — Lehman Brothers Collapse (2008-09-15)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated (Tick 1, 2026-06-12); 13 events, chronological.
-- `history-politics/index.md` — not yet generated.
-- `science-technology/index.md` — not yet generated.
-- `arts-culture/index.md` — not yet generated.
-- `society-economics/index.md` — not yet generated.
-- `people/index.md` — not yet generated.
-- `INDEX.md` — not yet generated.
+- `TIMELINE.md` — generated (Tick 1, updated Tick 2, 2026-06-12); 13 events, chronological, 5 linked to files.
+- `history-politics/index.md` — generated (Tick 2, 2026-06-12); 2 entries.
+- `science-technology/index.md` — generated (Tick 2, 2026-06-12); 2 entries.
+- `arts-culture/index.md` — generated (Tick 2, 2026-06-12); stub (no dedicated files yet).
+- `society-economics/index.md` — generated (Tick 2, 2026-06-12); 4 entries (1 linked to file).
+- `people/index.md` — generated (Tick 2, 2026-06-12); stub (no dedicated files yet).
+- `INDEX.md` — generated (Tick 2, 2026-06-12); master index of all 5 categories.
+- Cross-reference `## Related` blocks — added to all 5 topic files (Tick 2, 2026-06-12).
 
 ## 6. Growth Loop
 
@@ -164,3 +168,25 @@ retargetability. Bootstrapped with:
 - Topic files: 2
 - README rows: 13
 - TIMELINE: generated
+
+### Tick 2: Beijing Olympics + LHC + Falcon 1 Deep-Dives + Full Structure — 2026-06-12
+
+**Items completed:**
+- content: 2008 Beijing Summer Olympics — `history-politics/beijing-summer-olympics.md`
+- content: Large Hadron Collider first beam — `science-technology/large-hadron-collider-first-beam.md`
+- content: SpaceX Falcon 1 first orbital launch — `science-technology/spacex-falcon-1-orbital-launch.md`
+- structure: All 5 category index pages generated (`history-politics/index.md`, `science-technology/index.md`, `arts-culture/index.md`, `society-economics/index.md`, `people/index.md`)
+- structure: Master `INDEX.md` generated
+- structure: Cross-reference `## Related` blocks added to all 5 topic files
+- structure: `TIMELINE.md` updated with links to new dedicated files
+
+**README**: 13 rows → 13 rows (5 now linked to dedicated files, up from 2)
+**Files added**: 3 topic files + 5 category indices + 1 INDEX.md
+
+**Repo state after tick:**
+- Topic files: 5
+- README rows: 13
+- TIMELINE: updated (5 links)
+- Category indices: all 5 generated
+- INDEX.md: generated
+- Cross-refs: all 5 topic files have ## Related blocks
