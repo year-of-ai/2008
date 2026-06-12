@@ -20,8 +20,8 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2007](http
 
 | Event | Description |
 |---|---|
-| Barack Obama elected US president | Democrat Barack Obama defeated Republican John McCain on November 4, becoming the first African American elected to the US presidency, a historic milestone in American political life. |
-| Lehman Brothers collapse | On September 15, investment bank Lehman Brothers filed for Chapter 11 bankruptcy — the largest in US history at the time — triggering a global financial panic and deepening the worldwide recession. |
+| [Barack Obama elected US president](history-politics/barack-obama-election.md) | Democrat Barack Obama defeated Republican John McCain on November 4, becoming the first African American elected to the US presidency, a historic milestone in American political life. |
+| [Lehman Brothers collapse](society-economics/lehman-brothers-collapse.md) | On September 15, investment bank Lehman Brothers filed for Chapter 11 bankruptcy — the largest in US history at the time — triggering a global financial panic and deepening the worldwide recession. |
 | Beijing Summer Olympics | China hosted the Summer Olympic Games from August 8 to August 24, featuring record-breaking athletic performances and marking China's emergence as a global sporting and economic power. |
 | Mumbai terrorist attacks | Coordinated attacks by Lashkar-e-Taiba gunmen struck hotels, a train station, and other sites in Mumbai from November 26–29, killing 166 people and straining India-Pakistan relations. |
 | Large Hadron Collider first beam | CERN's Large Hadron Collider circulated its first proton beam on September 10, inaugurating the world's largest and most powerful particle accelerator and opening a new era in high-energy physics. |

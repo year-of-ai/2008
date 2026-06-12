@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2008 is the current instance, spawned from the year 2007.
 
-**Generation status: growing** — 0 ticks completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
+**Generation status: growing** — 1 tick completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
 
 ## 3. Architecture (customization layer)
 
@@ -80,13 +80,15 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2008` (13 rows; 0 rows link to dedicated files).
-- **Dedicated topic files:** 0
+- **Knowledge table:** `README.md` → `## Notable Events of 2008` (13 rows; 2 rows link to dedicated files).
+- **Dedicated topic files:** 2
+  - `history-politics/barack-obama-election.md` — Barack Obama Presidential Election (2008-11-04)
+  - `society-economics/lehman-brothers-collapse.md` — Lehman Brothers Collapse (2008-09-15)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — not yet generated.
+- `TIMELINE.md` — generated (Tick 1, 2026-06-12); 13 events, chronological.
 - `history-politics/index.md` — not yet generated.
 - `science-technology/index.md` — not yet generated.
 - `arts-culture/index.md` — not yet generated.
@@ -147,3 +149,18 @@ retargetability. Bootstrapped with:
   + an evolve cadence).
 - `.github/` and `.claude/` customization layers — planted verbatim by the year 2007 replant; no
   concept-specific content in either layer.
+
+### Tick 1: Lehman Brothers + Obama Election Deep-Dives — 2026-06-12
+
+**Items completed:**
+- content: Lehman Brothers collapse — `society-economics/lehman-brothers-collapse.md`
+- content: Barack Obama election — `history-politics/barack-obama-election.md`
+- structure: TIMELINE.md generated from 13 README events
+
+**README**: 13 rows → 13 rows (2 now linked to dedicated files)
+**Files added**: 2 topic files + 1 TIMELINE.md
+
+**Repo state after tick:**
+- Topic files: 2
+- README rows: 13
+- TIMELINE: generated
