@@ -7,8 +7,6 @@
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Mumbai terrorist attacks (Nov 26–29, 2008) | content | high |
-| Deep-dive: TARP bailout signing (Oct 3, 2008) | content | high |
 | Deep-dive: Russia-Georgia war (Aug 2008) | content | medium |
 
 ## Backlog
@@ -38,6 +36,8 @@
 | Generate master INDEX.md | structure | 2026-06-12 |
 | Add cross-reference ## Related blocks to existing topic files | structure | 2026-06-12 |
 | Update TIMELINE.md links to new dedicated files | structure | 2026-06-12 |
+| Deep-dive: Mumbai terrorist attacks (Nov 26–29, 2008) | content | 2026-06-13 |
+| Deep-dive: TARP bailout signing (Oct 3, 2008) | content | 2026-06-13 |
 
 ## Ideas
 

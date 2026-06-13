@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2008 is the current instance, spawned from the year 2007.
 
-**Generation status: growing** — 2 ticks completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
+**Generation status: growing** — 3 ticks completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
 
 ## 3. Architecture (customization layer)
 
@@ -80,13 +80,15 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2008` (13 rows; 5 rows link to dedicated files).
-- **Dedicated topic files:** 5
+- **Knowledge table:** `README.md` → `## Notable Events of 2008` (13 rows; 7 rows link to dedicated files).
+- **Dedicated topic files:** 7
   - `history-politics/barack-obama-election.md` — Barack Obama Presidential Election (2008-11-04)
   - `history-politics/beijing-summer-olympics.md` — 2008 Beijing Summer Olympics (2008-08-08)
+  - `history-politics/mumbai-terrorist-attacks.md` — 2008 Mumbai Terrorist Attacks (2008-11-26)
   - `science-technology/large-hadron-collider-first-beam.md` — Large Hadron Collider First Beam (2008-09-10)
   - `science-technology/spacex-falcon-1-orbital-launch.md` — SpaceX Falcon 1 First Orbital Launch (2008-09-28)
   - `society-economics/lehman-brothers-collapse.md` — Lehman Brothers Collapse (2008-09-15)
+  - `society-economics/tarp-bailout.md` — TARP Bailout Signing (2008-10-03)
 
 ## 5. Structure Inventory
 
@@ -190,3 +192,15 @@ retargetability. Bootstrapped with:
 - Category indices: all 5 generated
 - INDEX.md: generated
 - Cross-refs: all 5 topic files have ## Related blocks
+
+---
+
+### Tick 3: Mumbai Attacks + TARP Bailout Deep-Dives — 2026-06-13
+
+Added two deep-dive topic files and updated README knowledge table links.
+
+- Created `history-politics/mumbai-terrorist-attacks.md`: deep-dive on the November 2008 Mumbai terrorist attacks
+- Created `society-economics/tarp-bailout.md`: deep-dive on the October 2008 TARP bailout signing
+- Updated `README.md`: linked Mumbai and TARP entries to their dedicated files
+- Updated `ROADMAP.md`: moved completed items to Done
+- Ran sync-seed to update Content Inventory in seed.md sections 1–7
