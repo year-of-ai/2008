@@ -1,5 +1,10 @@
 # The Year 2008
 
+> **Consolidated into [year-of-ai/2005-2011](https://github.com/year-of-ai/2005-2011).**
+> This repository is archived and read-only. All content has been preserved under the
+> `2008/` directory in the consolidated range repository.
+
+
 > **Status**: This repository is **mature** — its 3-tick growth generation is complete. Its successor is [year-of-ai/2009](https://github.com/year-of-ai/2009) (the year 2009).
 
 A self-growing knowledge base about **the year 2008** — history, science, technology, arts, society, and people.
