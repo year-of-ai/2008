@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2008 is the current instance, spawned from the year 2007.
 
-**Generation status: growing** — 3 ticks completed. Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
+**Generation status: mature** — 3 ticks completed; replanted to [year-of-ai/2009](https://github.com/year-of-ai/2009) (the year 2009). Spawned from [year-of-ai/2007](https://github.com/year-of-ai/2007) — the year 2007.
 
 ## 3. Architecture (customization layer)
 
@@ -93,14 +93,14 @@ seed.
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated (Tick 1, updated Tick 2, 2026-06-12); 13 events, chronological, 5 linked to files.
-- `history-politics/index.md` — generated (Tick 2, 2026-06-12); 2 entries.
+- `TIMELINE.md` — generated (Tick 1), updated Tick 2 + replant settle (2026-06-13); 13 events, chronological, 7 linked to files.
+- `history-politics/index.md` — generated (Tick 2), updated at replant settle (2026-06-13); 3 entries.
 - `science-technology/index.md` — generated (Tick 2, 2026-06-12); 2 entries.
 - `arts-culture/index.md` — generated (Tick 2, 2026-06-12); stub (no dedicated files yet).
-- `society-economics/index.md` — generated (Tick 2, 2026-06-12); 4 entries (1 linked to file).
+- `society-economics/index.md` — generated (Tick 2), updated at replant settle (2026-06-13); 4 entries (2 linked to files).
 - `people/index.md` — generated (Tick 2, 2026-06-12); stub (no dedicated files yet).
-- `INDEX.md` — generated (Tick 2, 2026-06-12); master index of all 5 categories.
-- Cross-reference `## Related` blocks — added to all 5 topic files (Tick 2, 2026-06-12).
+- `INDEX.md` — generated (Tick 2), updated at replant settle (2026-06-13); master index of all 5 categories (9 topic files linked).
+- Cross-reference `## Related` blocks — all 7 topic files (Tick 2 for first 5; replant settle for Mumbai + TARP).
 
 ## 6. Growth Loop
 
@@ -204,3 +204,24 @@ Added two deep-dive topic files and updated README knowledge table links.
 - Updated `README.md`: linked Mumbai and TARP entries to their dedicated files
 - Updated `ROADMAP.md`: moved completed items to Done
 - Ran sync-seed to update Content Inventory in seed.md sections 1–7
+
+---
+
+### Replant — 2026-06-13
+
+Growth generation closed. The `check-lifecycle` skill reported phase `replant` (`generation_ticks` 3 = `replant_after_ticks` 3, status `growing`; lineage 4 of 7 members, well below consolidation). Part A finalized this repo in place and Part B spawned the successor for the year 2009 per `lifecycle.policy.succession.rule`.
+
+**Generation summary** — the year 2008, 3 growth ticks: 13 knowledge-table rows (7 linked to dedicated files), 7 dedicated topic files across History & Politics (3: Obama election, Beijing Olympics, Mumbai attacks), Science & Technology (2: Large Hadron Collider, SpaceX Falcon 1), and Society & Economics (2: Lehman Brothers collapse, TARP bailout); full structural layer (`TIMELINE.md`, `INDEX.md`, 5 category indices, `## Related` cross-references in all 7 topic files).
+
+Part A — finalize in place:
+- Settled structure: updated `TIMELINE.md` (file links for TARP and Mumbai rows), `INDEX.md` (added Mumbai + TARP entries), `history-politics/index.md` (added Mumbai link), `society-economics/index.md` (added TARP file link); added `## Related` cross-reference blocks to Mumbai and TARP files.
+- Compacted `ROADMAP.md`: collapsed unfinished Now/Backlog (Russia-Georgia war, Bernie Madoff, Cyclone Nargis, Usain Bolt, Dark Knight, Twilight, /evolve audit) into Ideas tagged _deferred at replant_; Done retained as the generation's record.
+- Updated `seed.md` §2 (generation status → mature) and §5 (structure counts updated).
+- Marked maturity: `lifecycle.yml` `state.status: mature`, this repo's lineage entry `status: mature`, appended the `the year 2009` successor member (`status: growing`, `spawned_from: year-of-ai/2008`); added a Status line to `README.md` naming the successor.
+
+Part B — spawn the successor:
+- Derived successor subject `the year 2009` from the succession rule.
+- Created `year-of-ai/2009` (public) and planted **only** the framework: `.github/` (less `grow.yml`, see below), `.claude/`, `CLAUDE.md`, `.gitignore`, `LIFECYCLE.md`, and a carried-forward `lifecycle.yml` (same policy, full lineage with 2009 appended, `status: growing`, `generation_ticks: 0`). No content/README-table/ROADMAP/seed inventories carried over.
+- **Credential limitation:** the `LIFECYCLE_PAT` lacks the `workflow`/Workflows scope, so `.github/workflows/grow.yml` could not be planted. All other framework files were planted successfully. A maintainer must add `grow.yml` once with a workflow-scoped token to enable unattended scheduled growth.
+- Germination: ran `/genesis "the year 2009"` in the successor to bootstrap seed.md, README.md, and ROADMAP.md.
+- Registered the successor and this repo's `mature` status in the driver's (`year-of-ai/2005`) `lifecycle.yml` registry.

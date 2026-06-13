@@ -14,6 +14,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 |-------|------|
 | Barack Obama Presidential Election | [history-politics/barack-obama-election.md](history-politics/barack-obama-election.md) |
 | 2008 Beijing Summer Olympics | [history-politics/beijing-summer-olympics.md](history-politics/beijing-summer-olympics.md) |
+| 2008 Mumbai Terrorist Attacks | [history-politics/mumbai-terrorist-attacks.md](history-politics/mumbai-terrorist-attacks.md) |
 
 ## Science & Technology
 
@@ -37,6 +38,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 | Topic | File |
 |-------|------|
 | Lehman Brothers Collapse | [society-economics/lehman-brothers-collapse.md](society-economics/lehman-brothers-collapse.md) |
+| TARP Bailout | [society-economics/tarp-bailout.md](society-economics/tarp-bailout.md) |
 
 ## People
 

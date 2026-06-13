@@ -5,21 +5,11 @@
 
 ## Now
 
-| Item | Tag | Priority |
-|---|---|---|
-| Deep-dive: Russia-Georgia war (Aug 2008) | content | medium |
+*Empty — generation closed at replant.*
 
 ## Backlog
 
-| Item | Tag | Priority |
-|---|---|---|
-| Deep-dive: Bernie Madoff Ponzi scheme (Dec 11, 2008) | content | medium |
-| Deep-dive: Cyclone Nargis, Myanmar (May 2–3, 2008) | content | medium |
-| Deep-dive: Usain Bolt 100m world record (Aug 16, 2008) | content | medium |
-| Deep-dive: *The Dark Knight* release (Jul 18, 2008) | content | medium |
-| Deep-dive: *Twilight* film release (Nov 21, 2008) | content | low |
-| Add cross-reference ## Related blocks to topic files | structure | medium |
-| Periodic /evolve audit of .github/ layer | meta | low |
+*Empty — generation closed at replant.*
 
 ## Done
 
@@ -38,14 +28,22 @@
 | Update TIMELINE.md links to new dedicated files | structure | 2026-06-12 |
 | Deep-dive: Mumbai terrorist attacks (Nov 26–29, 2008) | content | 2026-06-13 |
 | Deep-dive: TARP bailout signing (Oct 3, 2008) | content | 2026-06-13 |
+| Settle structure: update generated artifacts for Tick 3 files | structure | 2026-06-13 |
 
 ## Ideas
 
+*(deferred at replant — carry forward to successor or pick up in a future generation)*
+
+- Deep-dive: Russia-Georgia war (Aug 2008)
+- Deep-dive: Bernie Madoff Ponzi scheme (Dec 11, 2008)
+- Deep-dive: Cyclone Nargis, Myanmar (May 2–3, 2008)
+- Deep-dive: Usain Bolt 100m world record (Aug 16, 2008)
+- Deep-dive: *The Dark Knight* release (Jul 18, 2008)
+- Deep-dive: *Twilight* film release (Nov 21, 2008)
+- Periodic /evolve audit of .github/ layer
 - Deep-dive: US housing market collapse and foreclosure crisis (2008)
 - Deep-dive: 80th Academy Awards / *No Country for Old Men* wins (Feb 24, 2008)
 - Deep-dive: California wildfires (2008 season)
-- Deep-dive: Inauguration preparation and transition period (Nov–Dec 2008)
-- Deep-dive: Wall Street bank mergers and acquisitions (Merrill Lynch, Bear Stearns, Wachovia)
 - Deep-dive: Bear Stearns collapse and Federal Reserve rescue (Mar 2008)
 - Deep-dive: Large Hadron Collider quench incident (Sep 19, 2008)
 - Deep-dive: 2008 US Presidential primary season (Obama vs. Clinton)
@@ -57,3 +55,4 @@
 - Deep-dive: Google Chrome browser launch (Sep 2, 2008)
 - Deep-dive: Apple MacBook Air launch (Jan 15, 2008)
 - Deep-dive: Grand Theft Auto IV release (Apr 29, 2008)
+- Deep-dive: Wall Street bank mergers and acquisitions (Merrill Lynch, Bear Stearns, Wachovia)

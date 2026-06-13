@@ -36,3 +36,11 @@ The attacks also reshaped global counterterrorism doctrine. The use of a small, 
 - [Urban Warfare Project Case Study #16: Mumbai Terrorist Attacks — Modern War Institute, West Point](https://mwi.westpoint.edu/urban-warfare-project-case-study-16-mumbai-terrorist-attacks/)
 - [Mumbai Terror Attacks Fast Facts — CNN](https://edition.cnn.com/2013/09/18/world/asia/mumbai-terror-attacks)
 - [A Perfect Terrorist (David Headley) — PBS Frontline](https://www.pbs.org/wgbh/frontline/documentary/david-headley/)
+
+<!-- BEGIN GENERATED: related-links — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Barack Obama Presidential Election](barack-obama-election.md) — The US presidential election held nine days before the attacks shifted global geopolitical attention as the crisis unfolded.
+- [2008 Beijing Summer Olympics](beijing-summer-olympics.md) — Another major 2008 event placing security and geopolitics at the center of global attention.
+- [TARP Bailout](../society-economics/tarp-bailout.md) — Simultaneous global financial crisis dominating 2008 alongside the geopolitical crisis triggered by the attacks.
+<!-- END GENERATED: related-links -->

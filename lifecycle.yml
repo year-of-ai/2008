@@ -30,7 +30,7 @@ lifecycle:
 
   state:
     # growing | mature (replanted; successor spawned) | consolidated (merged + archived)
-    status: growing
+    status: mature
     # Growth ticks recorded in seed.md §8 since the most recent Genesis or Replant entry.
     generation_ticks: 3
     # Reference instance the framework was inherited from. NOT counted toward consolidation.
@@ -51,5 +51,9 @@ lifecycle:
         spawned_from: "year-of-ai/2006"
       - subject: "the year 2008"
         repo: "year-of-ai/2008"
-        status: growing
+        status: mature
         spawned_from: "year-of-ai/2007"
+      - subject: "the year 2009"
+        repo: "year-of-ai/2009"
+        status: growing
+        spawned_from: "year-of-ai/2008"
