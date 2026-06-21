@@ -29,7 +29,9 @@ Category index: [science-technology/index.md](science-technology/index.md)
 
 Category index: [arts-culture/index.md](arts-culture/index.md)
 
-*No dedicated topic files yet — see [README.md](README.md) knowledge table for Arts & Culture entries.*
+| Topic | File |
+|-------|------|
+| The Dark Knight | [arts-culture/the-dark-knight.md](arts-culture/the-dark-knight.md) |
 
 ## Society & Economics
 
@@ -39,11 +41,14 @@ Category index: [society-economics/index.md](society-economics/index.md)
 |-------|------|
 | Lehman Brothers Collapse | [society-economics/lehman-brothers-collapse.md](society-economics/lehman-brothers-collapse.md) |
 | TARP Bailout | [society-economics/tarp-bailout.md](society-economics/tarp-bailout.md) |
+| Bernie Madoff Ponzi Scheme Exposure | [society-economics/bernie-madoff-ponzi-scheme.md](society-economics/bernie-madoff-ponzi-scheme.md) |
 
 ## People
 
 Category index: [people/index.md](people/index.md)
 
-*No dedicated topic files yet — see [README.md](README.md) knowledge table for People entries.*
+| Topic | File |
+|-------|------|
+| Usain Bolt | [people/usain-bolt.md](people/usain-bolt.md) |
 
 <!-- END GENERATED: master-index -->
