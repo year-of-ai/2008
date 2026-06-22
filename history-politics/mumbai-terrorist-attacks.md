@@ -43,4 +43,5 @@ The attacks also reshaped global counterterrorism doctrine. The use of a small, 
 - [Barack Obama Presidential Election](barack-obama-election.md) — The US presidential election held nine days before the attacks shifted global geopolitical attention as the crisis unfolded.
 - [2008 Beijing Summer Olympics](beijing-summer-olympics.md) — Another major 2008 event placing security and geopolitics at the center of global attention.
 - [TARP Bailout](../society-economics/tarp-bailout.md) — Simultaneous global financial crisis dominating 2008 alongside the geopolitical crisis triggered by the attacks.
+- [2008 Russo-Georgian War](russo-georgian-war.md) — Another 2008 crisis exposing the fragility of the post-Cold War security order and the limits of international frameworks to contain state and non-state violence.
 <!-- END GENERATED: related-links -->

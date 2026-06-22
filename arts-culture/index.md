@@ -6,5 +6,5 @@ Notable events, milestones, and developments in arts and culture from the year 2
 | Topic | Summary |
 |-------|---------|
 | [*The Dark Knight*](the-dark-knight.md) | Christopher Nolan's Batman sequel opened July 18, 2008, earning over $1 billion worldwide; Heath Ledger's Joker performance won a posthumous Academy Award. |
-| *Twilight* film (Nov 2008) | Summit Entertainment's adaptation of Stephenie Meyer's novel opened November 21, 2008, grossing over $392 million worldwide and launching one of the decade's most significant film franchises. |
+| [*Twilight* film](twilight-film-2008.md) | Catherine Hardwicke's adaptation of Stephenie Meyer's novel opened November 21, 2008, achieving the highest opening ever for a female-directed film and launching a multi-billion-dollar young adult franchise. |
 <!-- END GENERATED: category-index -->

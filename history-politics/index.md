@@ -8,4 +8,5 @@ Notable events, milestones, and developments in history and politics from the ye
 | [Barack Obama Presidential Election](barack-obama-election.md) | Democrat Barack Obama defeated Republican John McCain on November 4, 2008, becoming the first African American elected to the US presidency. |
 | [2008 Beijing Summer Olympics](beijing-summer-olympics.md) | China hosted the XXIX Olympiad from August 8–24, 2008, marking China's emergence as a global power amid record-breaking athletic performances by Michael Phelps and Usain Bolt. |
 | [2008 Mumbai Terrorist Attacks](mumbai-terrorist-attacks.md) | Coordinated Lashkar-e-Taiba attacks struck multiple high-profile targets across South Mumbai from November 26–29, 2008, killing 166 people and straining India-Pakistan relations. |
+| [2008 Russo-Georgian War](russo-georgian-war.md) | A five-day war beginning August 8, 2008 over the breakaway regions of South Ossetia and Abkhazia, marking Russia's military resurgence and setting a precedent for later interventions in post-Soviet territories. |
 <!-- END GENERATED: category-index -->

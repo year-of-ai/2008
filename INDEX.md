@@ -15,6 +15,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 | Barack Obama Presidential Election | [history-politics/barack-obama-election.md](history-politics/barack-obama-election.md) |
 | 2008 Beijing Summer Olympics | [history-politics/beijing-summer-olympics.md](history-politics/beijing-summer-olympics.md) |
 | 2008 Mumbai Terrorist Attacks | [history-politics/mumbai-terrorist-attacks.md](history-politics/mumbai-terrorist-attacks.md) |
+| 2008 Russo-Georgian War | [history-politics/russo-georgian-war.md](history-politics/russo-georgian-war.md) |
 
 ## Science & Technology
 
@@ -32,6 +33,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 | Topic | File |
 |-------|------|
 | The Dark Knight | [arts-culture/the-dark-knight.md](arts-culture/the-dark-knight.md) |
+| Twilight Film Release | [arts-culture/twilight-film-2008.md](arts-culture/twilight-film-2008.md) |
 
 ## Society & Economics
 
