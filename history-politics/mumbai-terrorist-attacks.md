@@ -44,4 +44,5 @@ The attacks also reshaped global counterterrorism doctrine. The use of a small, 
 - [2008 Beijing Summer Olympics](beijing-summer-olympics.md) — Another major 2008 event placing security and geopolitics at the center of global attention.
 - [TARP Bailout](../society-economics/tarp-bailout.md) — Simultaneous global financial crisis dominating 2008 alongside the geopolitical crisis triggered by the attacks.
 - [2008 Russo-Georgian War](russo-georgian-war.md) — Another 2008 crisis exposing the fragility of the post-Cold War security order and the limits of international frameworks to contain state and non-state violence.
+- [Cyclone Nargis](../society-economics/cyclone-nargis.md) — A second 2008 catastrophe in Asia where institutional failure compounded human loss — the cyclone through the junta's obstruction of relief, the attacks through gaps in maritime and intelligence security.
 <!-- END GENERATED: related-links -->

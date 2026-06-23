@@ -44,6 +44,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 | Lehman Brothers Collapse | [society-economics/lehman-brothers-collapse.md](society-economics/lehman-brothers-collapse.md) |
 | TARP Bailout | [society-economics/tarp-bailout.md](society-economics/tarp-bailout.md) |
 | Bernie Madoff Ponzi Scheme Exposure | [society-economics/bernie-madoff-ponzi-scheme.md](society-economics/bernie-madoff-ponzi-scheme.md) |
+| Cyclone Nargis | [society-economics/cyclone-nargis.md](society-economics/cyclone-nargis.md) |
 
 ## People
 
