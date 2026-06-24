@@ -57,6 +57,7 @@ The deadlock eased through regional diplomacy. ASEAN, of which Myanmar was a mem
 
 - [2008 Mumbai Terrorist Attacks](../history-politics/mumbai-terrorist-attacks.md) — Like the junta's obstruction of cyclone relief, the November 2008 Mumbai attacks exposed the inadequacy of existing institutions to protect civilians, marking 2008 as a year of cascading humanitarian and security crises across Asia.
 - [2008 Russo-Georgian War](../history-politics/russo-georgian-war.md) — Both crises tested the international community's willingness to act across the barrier of state sovereignty — the Nargis aftermath through the "responsibility to protect" debate, and the Georgia war through the limits of intervention against a major power.
+- [2008 Sichuan Earthquake](sichuan-earthquake.md) — Striking just ten days after Nargis, the Wenchuan earthquake made May 2008 one of the deadliest months for natural disasters in recent Asian history; China's rapid mobilisation stood in sharp contrast to the junta's obstruction of relief.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

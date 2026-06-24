@@ -34,4 +34,6 @@ The 2008 Beijing Olympics marked China's emergence as a fully-fledged global sup
 - [Barack Obama Presidential Election](barack-obama-election.md) — The August 2008 Beijing Olympics coincided with the final months of the US presidential election campaign, both defining the international mood of the year.
 - [Large Hadron Collider First Beam](../science-technology/large-hadron-collider-first-beam.md) — CERN's historic milestone occurred just weeks after the Beijing Games closed, in another landmark month of September 2008.
 - [2008 Russo-Georgian War](russo-georgian-war.md) — The Georgian offensive began during the Games' opening ceremony on August 8, 2008, forcing world leaders in Beijing — including Bush and Putin — to respond to the crisis from the host city.
+- [2008 Sichuan Earthquake](../society-economics/sichuan-earthquake.md) — The disaster struck three months before the Games; China's rapid relief mobilisation and the national mourning that followed shaped the country's image in the run-up to its Olympic showcase.
 <!-- END GENERATED: crossrefs -->
+

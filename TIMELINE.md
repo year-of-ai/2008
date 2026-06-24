@@ -6,6 +6,7 @@ A chronological record of notable events in the year 2008.
 | Date | Event | Category | Summary |
 |------|-------|----------|---------|
 | May 2–3 | [Cyclone Nargis strikes Myanmar](society-economics/cyclone-nargis.md) | Society & Economics | Category-4 cyclone makes landfall in Myanmar's Irrawaddy Delta, killing an estimated 138,000 people; the military junta's refusal of international aid drew worldwide condemnation. |
+| May 12 | [2008 Sichuan earthquake](society-economics/sichuan-earthquake.md) | Society & Economics | The magnitude-8.0 Wenchuan earthquake strikes Sichuan, China, killing about 69,000 people; the collapse of thousands of "tofu-dreg" schools sparked a national accountability controversy. |
 | Jul 18 | [*The Dark Knight* released](arts-culture/the-dark-knight.md) | Arts & Culture | Christopher Nolan's Batman sequel opens, earning over $1 billion worldwide; Heath Ledger's Joker performance wins a posthumous Academy Award. |
 | Aug 8 | [Russo-Georgian War begins](history-politics/russo-georgian-war.md) | History & Politics | Russia launches a military intervention in Georgia in response to Georgian operations in South Ossetia, resulting in a five-day war that reshaped post-Soviet geopolitics. |
 | Aug 8–24 | [Beijing Summer Olympics](history-politics/beijing-summer-olympics.md) | History & Politics | China hosts the Summer Olympic Games, featuring record-breaking performances by Michael Phelps and Usain Bolt, marking China's emergence as a global sporting and economic power. |
