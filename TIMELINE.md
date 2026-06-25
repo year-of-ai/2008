@@ -5,6 +5,7 @@ A chronological record of notable events in the year 2008.
 <!-- BEGIN GENERATED: timeline -->
 | Date | Event | Category | Summary |
 |------|-------|----------|---------|
+| Feb 17 | [Kosovo declares independence](history-politics/kosovo-declaration-of-independence.md) | History & Politics | Kosovo's assembly proclaims independence from Serbia, the last state to emerge from Yugoslavia's breakup; recognition by the US and Western powers divided the international community. |
 | May 2–3 | [Cyclone Nargis strikes Myanmar](society-economics/cyclone-nargis.md) | Society & Economics | Category-4 cyclone makes landfall in Myanmar's Irrawaddy Delta, killing an estimated 138,000 people; the military junta's refusal of international aid drew worldwide condemnation. |
 | May 12 | [2008 Sichuan earthquake](society-economics/sichuan-earthquake.md) | Society & Economics | The magnitude-8.0 Wenchuan earthquake strikes Sichuan, China, killing about 69,000 people; the collapse of thousands of "tofu-dreg" schools sparked a national accountability controversy. |
 | Jul 18 | [*The Dark Knight* released](arts-culture/the-dark-knight.md) | Arts & Culture | Christopher Nolan's Batman sequel opens, earning over $1 billion worldwide; Heath Ledger's Joker performance wins a posthumous Academy Award. |

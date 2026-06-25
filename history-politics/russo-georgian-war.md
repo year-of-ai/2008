@@ -76,6 +76,7 @@ Russia was suspended from the G8 (briefly reconstituted as the G7) following its
 - [Barack Obama Presidential Election](barack-obama-election.md) — The Russo-Georgian War became a significant foreign policy flashpoint in the 2008 U.S. presidential campaign, with McCain and Obama offering sharply different responses; McCain's aggressive rhetoric ("We are all Georgians now") contrasted with Obama's more measured approach, previewing their foreign policy differences heading into the general election.
 - [2008 Mumbai Terrorist Attacks](mumbai-terrorist-attacks.md) — Like the Russo-Georgian War, the November 2008 Mumbai attacks underscored the fragility of the post-Cold War security order and the inadequacy of existing international frameworks to contain state-sponsored and non-state violence — two crises that defined 2008 as a year of cascading global instability.
 - [Cyclone Nargis](../society-economics/cyclone-nargis.md) — Both crises tested the international community's willingness to act across the barrier of state sovereignty — the Nargis aftermath through the "responsibility to protect" debate, and the Georgia war through the limits of intervention against a major power.
+- [2008 Kosovo Declaration of Independence](kosovo-declaration-of-independence.md) — Recognized by Western powers in February 2008, Kosovo's independence was invoked by Russia six months later as a precedent justifying its support for the breakaway Georgian regions of South Ossetia and Abkhazia.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
