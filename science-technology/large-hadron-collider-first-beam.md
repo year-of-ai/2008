@@ -34,4 +34,5 @@ The first-beam event of September 10, 2008 represented the culmination of roughl
 
 - [SpaceX Falcon 1 First Orbital Launch](spacex-falcon-1-orbital-launch.md) — Another landmark scientific milestone of September 2008, demonstrating the breadth of transformative events in a single month.
 - [2008 Beijing Summer Olympics](../history-politics/beijing-summer-olympics.md) — The global spectacle of the Olympics preceded the LHC first-beam by weeks in a remarkable summer of 2008.
+- [Bitcoin Whitepaper Published](bitcoin-whitepaper.md) — Another foundational 2008 technology milestone, its whitepaper appearing weeks after the LHC circulated its first beam.
 <!-- END GENERATED: crossrefs -->
