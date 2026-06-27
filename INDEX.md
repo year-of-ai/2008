@@ -55,6 +55,7 @@ Category index: [people/index.md](people/index.md)
 
 | Topic | File |
 |-------|------|
+| Michael Phelps | [people/michael-phelps.md](people/michael-phelps.md) |
 | Usain Bolt | [people/usain-bolt.md](people/usain-bolt.md) |
 
 <!-- END GENERATED: master-index -->
