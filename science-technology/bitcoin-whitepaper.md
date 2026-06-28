@@ -33,4 +33,5 @@ The 2008 whitepaper is regarded as the founding document of cryptocurrency and o
 - [TARP Bailout](../society-economics/tarp-bailout.md) — The whitepaper appeared weeks after the $700 billion bank bailout; Bitcoin's January 2009 genesis block embedded a headline about a second bank rescue, framing the system as an alternative to bailout-dependent finance.
 - [Lehman Brothers Collapse](../society-economics/lehman-brothers-collapse.md) — Published during the financial panic touched off by Lehman's failure, the paper proposed a monetary system that removed the trusted intermediaries whose collapse had triggered the crisis.
 - [Large Hadron Collider First Beam](large-hadron-collider-first-beam.md) — A fellow landmark of 2008 science and technology, illustrating the breadth of foundational advances made during the year.
+- [Apple App Store Launch](apple-app-store-launch.md) — Opened ten weeks before the whitepaper, the App Store reshaped how digital software was distributed and monetized, a counterpart to Bitcoin's reshaping of how digital value could be transferred.
 <!-- END GENERATED: crossrefs -->

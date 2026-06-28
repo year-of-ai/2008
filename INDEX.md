@@ -24,6 +24,7 @@ Category index: [science-technology/index.md](science-technology/index.md)
 
 | Topic | File |
 |-------|------|
+| Apple App Store Launch | [science-technology/apple-app-store-launch.md](science-technology/apple-app-store-launch.md) |
 | Bitcoin Whitepaper Published | [science-technology/bitcoin-whitepaper.md](science-technology/bitcoin-whitepaper.md) |
 | Large Hadron Collider First Beam | [science-technology/large-hadron-collider-first-beam.md](science-technology/large-hadron-collider-first-beam.md) |
 | SpaceX Falcon 1 First Orbital Launch | [science-technology/spacex-falcon-1-orbital-launch.md](science-technology/spacex-falcon-1-orbital-launch.md) |
