@@ -37,6 +37,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 |-------|------|
 | The Dark Knight | [arts-culture/the-dark-knight.md](arts-culture/the-dark-knight.md) |
 | Twilight Film Release | [arts-culture/twilight-film-2008.md](arts-culture/twilight-film-2008.md) |
+| WALL-E | [arts-culture/wall-e.md](arts-culture/wall-e.md) |
 
 ## Society & Economics
 

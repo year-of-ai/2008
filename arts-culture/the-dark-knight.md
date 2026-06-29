@@ -71,4 +71,5 @@ The film's commercial success — crossing $1 billion worldwide on a single supe
 - [2008 Beijing Summer Olympics](../history-politics/beijing-summer-olympics.md) — The film's opening weekend (July 18–20) occurred during the final weeks before the Beijing Games began on August 8, both defining the summer of 2008 as a landmark cultural and sporting moment.
 - [Usain Bolt sets 100m world record](../people/usain-bolt.md) — Bolt's record-breaking 100m final at Beijing on August 16, 2008, and The Dark Knight's theatrical run were among the most widely followed events of the summer of 2008.
 - [Twilight Film Release](twilight-film-2008.md) — Released four months later (November 21, 2008), Twilight was the other defining film of 2008; together the prestige superhero blockbuster and the YA romance phenomenon illustrate the range of the year's box office.
+- [*WALL-E*](wall-e.md) — Pixar's animated feature opened three weeks earlier (June 27, 2008); alongside The Dark Knight it made the summer of 2008 a high point for both blockbuster spectacle and critically acclaimed cinema.
 <!-- END GENERATED: crossrefs -->

@@ -70,6 +70,7 @@ Retrospective reassessment of the film has acknowledged Hardwicke's stylistic ch
 
 - [The Dark Knight](the-dark-knight.md) — Released four months earlier (July 18, 2008), The Dark Knight was the other dominant film of 2008, setting an opening weekend record of $158.4 million and crossing $1 billion worldwide; the two films illustrate the range of 2008's blockbuster landscape from prestige superhero cinema to YA romance.
 - [Barack Obama Presidential Election](../history-politics/barack-obama-election.md) — Twilight premiered three weeks after Obama's November 4 election; both events reflected 2008 as a year in which younger, digitally-organized communities — Obama's small-dollar donors, Meyer's online fandom — demonstrated unprecedented mobilization power.
+- [*WALL-E*](wall-e.md) — Pixar's animated feature, released June 27, 2008, was among the year's most acclaimed films; with Twilight it illustrates the breadth of 2008's cinema, from family animation to YA romance.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
