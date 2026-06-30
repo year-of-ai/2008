@@ -30,6 +30,7 @@ The App Store established the model of a curated, centralized marketplace for mo
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [HTC Dream and the Launch of Android](htc-dream-android-launch.md) — The first Android phone shipped that October with the Android Market, the open-platform counterpart to the App Store; together the two storefronts established the mobile app economy.
 - [Bitcoin Whitepaper Published](bitcoin-whitepaper.md) — Another 2008 milestone that reshaped the digital economy, pairing a new software-distribution model with a new model for digital money.
 - [SpaceX Falcon 1 First Orbital Launch](spacex-falcon-1-orbital-launch.md) — A contemporaneous 2008 technology landmark in which a private company opened a market — commercial spaceflight — previously closed to it, paralleling the App Store's opening of mobile software distribution.
 - [Large Hadron Collider First Beam](large-hadron-collider-first-beam.md) — A fellow landmark of 2008 science and technology, illustrating the breadth of foundational advances made during the year.
