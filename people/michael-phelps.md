@@ -45,5 +45,6 @@ The narrow margins of several victories — most notably the relay anchored by J
 
 - [2008 Beijing Summer Olympics](../history-politics/beijing-summer-olympics.md) — Phelps's eight gold medals were won at the Beijing Games, the same Olympics at which Usain Bolt set his sprint world records; together the two athletes defined the event's sporting narrative.
 - [Usain Bolt](usain-bolt.md) — A fellow record-breaker at Beijing 2008, Bolt's three sprint world records on the track paralleled Phelps's dominance in the pool as the Games' two defining individual performances.
+- [Rafael Nadal](rafael-nadal.md) — The Spanish tennis player also had a career-defining 2008 crowned at the Beijing Olympics, where he won the men's singles gold medal en route to the world No. 1 ranking.
 <!-- END GENERATED: crossrefs -->
 

@@ -52,4 +52,5 @@ The records and their manner of achievement — especially the 100m celebration 
 - [2008 Beijing Summer Olympics](../history-politics/beijing-summer-olympics.md) — Bolt's three world records were set at the Beijing Games, which also featured Michael Phelps's eight swimming gold medals; together the two athletes dominated the sporting narrative of the 2008 Olympics.
 - [Michael Phelps](michael-phelps.md) — The American swimmer won eight gold medals in the pool at the same Beijing Olympics, his record haul matching Bolt's track records as the Games' defining individual performances.
 - [The Dark Knight](../arts-culture/the-dark-knight.md) — Released on July 18, 2008, the film was the dominant cultural phenomenon of the same summer in which Bolt's Beijing records captivated global audiences.
+- [Rafael Nadal](rafael-nadal.md) — The Spanish tennis player shared the 2008 Beijing Olympics stage, winning the men's singles gold medal in a season that also brought him the world No. 1 ranking.
 <!-- END GENERATED: crossrefs -->
