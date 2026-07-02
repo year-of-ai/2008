@@ -36,7 +36,9 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 
 | Topic | File |
 |-------|------|
+| Coldplay — Viva la Vida or Death and All His Friends | [arts-culture/coldplay-viva-la-vida.md](arts-culture/coldplay-viva-la-vida.md) |
 | The Dark Knight | [arts-culture/the-dark-knight.md](arts-culture/the-dark-knight.md) |
+| The Hunger Games Novel Published | [arts-culture/the-hunger-games-novel.md](arts-culture/the-hunger-games-novel.md) |
 | Twilight Film Release | [arts-culture/twilight-film-2008.md](arts-culture/twilight-film-2008.md) |
 | WALL-E | [arts-culture/wall-e.md](arts-culture/wall-e.md) |
 
