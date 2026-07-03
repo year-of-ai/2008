@@ -32,4 +32,5 @@ The film is distinguished by its largely dialogue-free first act, which conveys 
 
 - [The Dark Knight](the-dark-knight.md) — Released three weeks later (July 18, 2008), it was the other defining film of summer 2008; together the dark prestige blockbuster and Pixar's near-silent animated feature illustrate the breadth of the year's acclaimed cinema.
 - [*Twilight* film](twilight-film-2008.md) — The year's other major studio release, opening November 21, 2008; alongside WALL-E it marks the range of 2008's box office, from family animation to the YA romance phenomenon.
+- [Coldplay — *Viva la Vida or Death and All His Friends*](coldplay-viva-la-vida.md) — Released June 12, 2008, one week before WALL-E; together the album and the film made the early summer of 2008 a landmark moment for ambitious, critically celebrated popular art.
 <!-- END GENERATED: crossrefs -->
