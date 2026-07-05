@@ -6,6 +6,7 @@ Notable events, milestones, and developments in arts and culture from the year 2
 | Topic | Summary |
 |-------|---------|
 | [Coldplay — *Viva la Vida or Death and All His Friends*](coldplay-viva-la-vida.md) | Coldplay's fourth studio album, produced with Brian Eno, was released June 12, 2008; its orchestral reinvention topped charts in more than thirty countries and won Best Rock Album at the 2009 Grammy Awards. |
+| [*Slumdog Millionaire*](slumdog-millionaire.md) | Danny Boyle's British drama opened in limited US release November 12, 2008; the story of a Mumbai slum youth on a game show won eight Academy Awards, including Best Picture, and marked a global breakthrough for Indian cinema. |
 | [*The Dark Knight*](the-dark-knight.md) | Christopher Nolan's Batman sequel opened July 18, 2008, earning over $1 billion worldwide; Heath Ledger's Joker performance won a posthumous Academy Award. |
 | [*The Hunger Games* novel](the-hunger-games-novel.md) | Suzanne Collins's dystopian young adult novel, published September 14, 2008 by Scholastic Press, launched a bestselling trilogy and a major film franchise and became a defining text of the genre. |
 | [*Twilight* film](twilight-film-2008.md) | Catherine Hardwicke's adaptation of Stephenie Meyer's novel opened November 21, 2008, achieving the highest opening ever for a female-directed film and launching a multi-billion-dollar young adult franchise. |

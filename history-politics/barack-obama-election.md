@@ -35,4 +35,5 @@ The electoral coalition Obama assembled — urban, younger, multiracial, and hig
 
 - [Lehman Brothers Collapse](../society-economics/lehman-brothers-collapse.md) — The September 2008 financial crisis that dominated the final weeks of the election campaign and shaped Obama's economic mandate.
 - [2008 Russo-Georgian War](russo-georgian-war.md) — The August 2008 war became a foreign-policy flashpoint in the campaign, with McCain and Obama offering sharply contrasting responses ahead of the general election.
+- [2008 US Presidential Debates](2008-presidential-debates.md) — The three general-election debates in the weeks before the vote, where Obama's composure amid the financial crisis helped consolidate his lead over McCain.
 <!-- END GENERATED: crossrefs -->

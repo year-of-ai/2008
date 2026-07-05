@@ -63,4 +63,5 @@ The case became a defining instance of the tensions between regulatory capture, 
 
 - [Lehman Brothers Collapse](lehman-brothers-collapse.md) — The Madoff arrest on December 11, 2008, occurred three months after Lehman Brothers filed for bankruptcy on September 15, compounding a crisis of confidence in the entire financial system.
 - [TARP Bailout](tarp-bailout.md) — The $700 billion TARP program signed in October 2008 was already underway when the Madoff fraud was exposed, intensifying political debate about financial regulatory failure and Wall Street accountability.
+- [2008 Global Financial Crisis](2008-financial-crisis.md) — The market collapse that forced investor redemptions and exposed the Ponzi scheme, the largest US investment fraud, in December 2008.
 <!-- END GENERATED: crossrefs -->

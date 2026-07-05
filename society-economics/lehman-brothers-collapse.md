@@ -35,4 +35,5 @@ The bankruptcy also prompted a fundamental re-examination of financial regulatio
 
 - [Barack Obama Presidential Election](../history-politics/barack-obama-election.md) — The financial crisis catalysed by the Lehman collapse became the dominant issue in the November 2008 presidential election.
 - [Bitcoin Whitepaper Published](../science-technology/bitcoin-whitepaper.md) — Six weeks after Lehman's failure, the Bitcoin whitepaper proposed a peer-to-peer monetary system designed to operate without the trusted financial intermediaries whose collapse had triggered the panic.
+- [2008 Global Financial Crisis](2008-financial-crisis.md) — The wider systemic crisis whose acute phase the Lehman bankruptcy opened, cascading into global credit markets and unprecedented government intervention.
 <!-- END GENERATED: crossrefs -->

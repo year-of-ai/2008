@@ -17,6 +17,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 | 2008 Kosovo Declaration of Independence | [history-politics/kosovo-declaration-of-independence.md](history-politics/kosovo-declaration-of-independence.md) |
 | 2008 Mumbai Terrorist Attacks | [history-politics/mumbai-terrorist-attacks.md](history-politics/mumbai-terrorist-attacks.md) |
 | 2008 Russo-Georgian War | [history-politics/russo-georgian-war.md](history-politics/russo-georgian-war.md) |
+| 2008 US Presidential Debates | [history-politics/2008-presidential-debates.md](history-politics/2008-presidential-debates.md) |
 
 ## Science & Technology
 
@@ -37,6 +38,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 | Topic | File |
 |-------|------|
 | Coldplay — Viva la Vida or Death and All His Friends | [arts-culture/coldplay-viva-la-vida.md](arts-culture/coldplay-viva-la-vida.md) |
+| Slumdog Millionaire | [arts-culture/slumdog-millionaire.md](arts-culture/slumdog-millionaire.md) |
 | The Dark Knight | [arts-culture/the-dark-knight.md](arts-culture/the-dark-knight.md) |
 | The Hunger Games Novel Published | [arts-culture/the-hunger-games-novel.md](arts-culture/the-hunger-games-novel.md) |
 | Twilight Film Release | [arts-culture/twilight-film-2008.md](arts-culture/twilight-film-2008.md) |
@@ -53,6 +55,7 @@ Category index: [society-economics/index.md](society-economics/index.md)
 | Bernie Madoff Ponzi Scheme Exposure | [society-economics/bernie-madoff-ponzi-scheme.md](society-economics/bernie-madoff-ponzi-scheme.md) |
 | Cyclone Nargis | [society-economics/cyclone-nargis.md](society-economics/cyclone-nargis.md) |
 | 2008 Sichuan Earthquake | [society-economics/sichuan-earthquake.md](society-economics/sichuan-earthquake.md) |
+| 2008 Global Financial Crisis | [society-economics/2008-financial-crisis.md](society-economics/2008-financial-crisis.md) |
 
 ## People
 
