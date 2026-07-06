@@ -27,8 +27,10 @@ Category index: [science-technology/index.md](science-technology/index.md)
 |-------|------|
 | Apple App Store Launch | [science-technology/apple-app-store-launch.md](science-technology/apple-app-store-launch.md) |
 | Bitcoin Whitepaper Published | [science-technology/bitcoin-whitepaper.md](science-technology/bitcoin-whitepaper.md) |
+| Google Chrome Browser Launch | [science-technology/google-chrome-launch.md](science-technology/google-chrome-launch.md) |
 | HTC Dream and the Launch of Android | [science-technology/htc-dream-android-launch.md](science-technology/htc-dream-android-launch.md) |
 | Large Hadron Collider First Beam | [science-technology/large-hadron-collider-first-beam.md](science-technology/large-hadron-collider-first-beam.md) |
+| Netflix Expands Streaming to Xbox 360 | [science-technology/netflix-streaming-video.md](science-technology/netflix-streaming-video.md) |
 | SpaceX Falcon 1 First Orbital Launch | [science-technology/spacex-falcon-1-orbital-launch.md](science-technology/spacex-falcon-1-orbital-launch.md) |
 
 ## Arts & Culture
@@ -64,6 +66,7 @@ Category index: [people/index.md](people/index.md)
 | Topic | File |
 |-------|------|
 | Michael Phelps | [people/michael-phelps.md](people/michael-phelps.md) |
+| Nastia Liukin | [people/nastia-liukin.md](people/nastia-liukin.md) |
 | Rafael Nadal | [people/rafael-nadal.md](people/rafael-nadal.md) |
 | Usain Bolt | [people/usain-bolt.md](people/usain-bolt.md) |
 

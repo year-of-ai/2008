@@ -46,5 +46,6 @@ Nadal's ascent in 2008 laid the foundation for a career that would ultimately in
 - [2008 Beijing Summer Olympics](../history-politics/beijing-summer-olympics.md) — Nadal won the Olympic men's singles gold medal at the Beijing Games, part of the same 2008 season in which he took the world No. 1 ranking.
 - [Usain Bolt](usain-bolt.md) — A fellow athlete whose 2008 was defined by the Beijing Olympics, Bolt's sprint records paralleled Nadal's Olympic title as landmark individual performances of the year.
 - [Michael Phelps](michael-phelps.md) — Like Nadal, the American swimmer had a career-defining 2008 anchored by the Beijing Olympics, winning a record eight gold medals in the pool.
+- [Nastia Liukin](nastia-liukin.md) — The American gymnast won all-around gold at the same Beijing Games, another of the individual performances that defined the 2008 Olympics.
 <!-- END GENERATED: crossrefs -->
 

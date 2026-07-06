@@ -34,4 +34,5 @@ The HTC Dream marked the public debut of Android, which grew from this single de
 - [Apple App Store Launch](apple-app-store-launch.md) — Apple's storefront opened in July 2008, three months before the G1; the Android Market that debuted with the Dream was its open-platform counterpart, and the two defined the mobile app economy.
 - [Bitcoin Whitepaper Published](bitcoin-whitepaper.md) — A contemporaneous 2008 technology milestone; both the open Android platform and Satoshi Nakamoto's peer-to-peer cash design illustrate the year's decentralizing currents in computing.
 - [SpaceX Falcon 1 First Orbital Launch](spacex-falcon-1-orbital-launch.md) — A fellow landmark of 2008 technology in which a new entrant opened a previously closed market, paralleling Android's challenge to established mobile platforms.
+- [Google Chrome Browser Launch](google-chrome-launch.md) — Chrome's beta arrived weeks before the Dream in September 2008; both were Google platform plays of the same autumn, extending the company's reach from the browser to the smartphone operating system.
 <!-- END GENERATED: crossrefs -->
