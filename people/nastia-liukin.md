@@ -11,7 +11,7 @@ category: "People"
 
 ## Summary
 
-Gymnast Nastia Liukin won the gold medal in women's individual all-around at the 2008 Beijing Summer Olympics on August 15, 2008, with a score of 63.325. She defeated American teammate Shawn Johnson by just 0.6 points in one of the closest all-around competitions in Olympic history. Liukin's victory made her the first American woman to win the Olympic all-around title since Mary Lou Retton at the 1984 Los Angeles Olympics — a 24-year gap that underscored how dominant non-American gymnasts had been in the intervening decades. Her triumph extended a period of renewed American excellence in women's gymnastics and showcased the depth of talent in the U.S. women's team, which also medaled strongly in team and apparatus competitions at Beijing.
+Gymnast Nastia Liukin won the gold medal in women's individual all-around at the 2008 Beijing Summer Olympics on August 15, 2008, with a score of 63.325. She defeated American teammate Shawn Johnson by just 0.6 points in one of the closest all-around competitions in Olympic history. Liukin's victory made her the third American woman to win the Olympic all-around title, following Mary Lou Retton at the 1984 Los Angeles Olympics and Carly Patterson at the 2004 Athens Olympics; it was the second consecutive Games at which an American woman took the title. Her triumph extended a period of renewed American excellence in women's gymnastics and showcased the depth of talent in the U.S. women's team, which also medaled strongly in team and apparatus competitions at Beijing.
 
 ## Career Background and Path to Beijing
 
@@ -37,7 +37,7 @@ The five-medal total made Liukin the most decorated American gymnast at the 2008
 
 - **Event and date**: Women's Individual All-Around, August 15, 2008, Beijing Summer Olympics
 - **Score**: 63.325, defeating silver medalist Shawn Johnson (62.725) by 0.600 points
-- **Historic achievement**: First American woman to win the Olympic all-around since Mary Lou Retton at the 1984 Los Angeles Olympics — a 24-year gap
+- **Historic achievement**: Third American woman to win the Olympic all-around gold, after Mary Lou Retton (1984 Los Angeles) and Carly Patterson (2004 Athens); the second consecutive Games won by an American woman
 - **Father/Coach**: Valeri Liukin, three-time Soviet Olympic gold medalist (1988 Seoul) and co-founder of WOGA in Plano, Texas
 - **Total 2008 medals**: 5 (1 gold, 3 silver, 1 bronze) — the most by any gymnast at the Beijing Games
 - **Team context**: U.S. women's team won silver in the team all-around behind China
@@ -46,7 +46,7 @@ The five-medal total made Liukin the most decorated American gymnast at the 2008
 
 ## Significance
 
-Nastia Liukin's all-around victory broke a 24-year drought for American women in gymnastics' most prestigious individual event, cementing the United States' re-emergence as a dominant force in the sport. The competition between Liukin and Johnson demonstrated the extraordinary depth of American women's gymnastics in 2008 — two of the world's top three gymnasts were American teammates.
+Nastia Liukin's all-around victory made the United States the first nation to win back-to-back Olympic women's all-around titles since the Soviet era, following Carly Patterson's gold in 2004, and cemented the country's standing as a dominant force in the sport. The competition between Liukin and Johnson demonstrated the extraordinary depth of American women's gymnastics in 2008 — two of the world's top three gymnasts were American teammates.
 
 Her win extended American gymnastics into an era where U.S. women had achieved parity with and occasionally exceeded the historical dominance of Soviet and post-Soviet gymnasts. The Beijing all-around final drew enormous television audiences in the United States, contributing to sustained public interest in gymnastics that helped grow the sport's domestic talent pipeline.
 
