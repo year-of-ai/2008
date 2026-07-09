@@ -14,6 +14,7 @@ Category index: [history-politics/index.md](history-politics/index.md)
 |-------|------|
 | Barack Obama Presidential Election | [history-politics/barack-obama-election.md](history-politics/barack-obama-election.md) |
 | 2008 Beijing Summer Olympics | [history-politics/beijing-summer-olympics.md](history-politics/beijing-summer-olympics.md) |
+| California Proposition 8 and Same-Sex Marriage Ban | [history-politics/california-proposition-8-2008.md](history-politics/california-proposition-8-2008.md) |
 | 2008 Kosovo Declaration of Independence | [history-politics/kosovo-declaration-of-independence.md](history-politics/kosovo-declaration-of-independence.md) |
 | 2008 Mumbai Terrorist Attacks | [history-politics/mumbai-terrorist-attacks.md](history-politics/mumbai-terrorist-attacks.md) |
 | 2008 Russo-Georgian War | [history-politics/russo-georgian-war.md](history-politics/russo-georgian-war.md) |
@@ -45,6 +46,7 @@ Category index: [arts-culture/index.md](arts-culture/index.md)
 | The Hunger Games Novel Published | [arts-culture/the-hunger-games-novel.md](arts-culture/the-hunger-games-novel.md) |
 | Twilight Film Release | [arts-culture/twilight-film-2008.md](arts-culture/twilight-film-2008.md) |
 | WALL-E | [arts-culture/wall-e.md](arts-culture/wall-e.md) |
+| Writers Guild of America Strike Resolution | [arts-culture/writers-guild-strike-2008.md](arts-culture/writers-guild-strike-2008.md) |
 
 ## Society & Economics
 

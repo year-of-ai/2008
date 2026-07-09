@@ -1,6 +1,6 @@
 ---
 title: "Lehman Brothers Collapse"
-date: "2008-09-15"
+date: 2008-09-15
 category: "Society & Economics"
 ---
 

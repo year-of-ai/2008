@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama Presidential Election"
-date: "2008-11-04"
+date: 2008-11-04
 category: "History & Politics"
 ---
 
