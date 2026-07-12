@@ -97,12 +97,11 @@ The AFL-CIO and international labor organizations celebrated the strike as forwa
 
 ## Sources
 
-- Wikipedia: "2007–08 Writers Guild of America strike"
-- Rolling Stone: "How the Writers Guild Strike Changed Television" (2018 retrospective)
-- Variety: "2008 Pilot Season: Anatomy of a Compressed Year"
-- Hollywood Reporter: "WGA Strike Economic Impact" (2008)
-- U.S. HISTORY: "February 12, 2008: Writers Guild Strike Ends" (this-day-in-history)
-- Lowell Peterson and others: "The Strike and New Media" (WGA East retrospective materials)
+- [2007–08 Writers Guild of America strike — Wikipedia](https://en.wikipedia.org/wiki/2007%E2%80%9308_Writers_Guild_of_America_strike)
+- [Effect of the 2007–2008 Writers Guild of America strike on television — Wikipedia](https://en.wikipedia.org/wiki/Effect_of_the_2007%E2%80%932008_Writers_Guild_of_America_strike_on_television)
+- ["Hollywood writers' strike ends after 100 days" — HISTORY (This Day in History)](https://www.history.com/this-day-in-history/february-12/writers-strike-ends-after-100-days)
+- ["100 Days That Changed Hollywood: The Writers Strike, 10 Years Later" — The Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-features/100-days-changed-hollywood-writers-strike-10-years-1111860/)
+- ["A History of WGA Contract Negotiations and Gains" — Writers Guild of America West](https://www.wga.org/the-guild/about-us/history/a-history-of-wga-contract-negotiations-and-gains)
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related

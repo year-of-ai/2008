@@ -11,7 +11,7 @@ category: "History & Politics"
 
 ## Summary
 
-California's Proposition 8, passed on November 4, 2008 — the same day as the Barack Obama presidential election — was a constitutional amendment that reversed the state's May 2008 legalization of same-sex marriage and banned it until a federal court ruling took effect in June 2013. The amendment passed with 52.3% of the vote (6.2 million yes to 5.6 million no), making California the first U.S. state to pass a same-sex marriage ban via ballot initiative after previously permitting it. The campaign was the most expensive ballot measure on LGBTQ issues to date, with $83 million spent ($74 million for the anti-marriage campaign). Proposition 8 became a defining symbol of the cultural politics of 2008–2015, sparking nearly a decade of litigation, the landmark federal case *Perry v. Schwarzenegger*, and ultimately its own reversal in 2013–2015.
+California's Proposition 8, passed on November 4, 2008 — the same day as the Barack Obama presidential election — was a constitutional amendment that reversed the state's May 2008 legalization of same-sex marriage and banned it until a federal court ruling took effect in June 2013. The amendment passed with 52.3% of the vote (about 7.0 million yes to 6.4 million no), making California the first U.S. state to pass a same-sex marriage ban via ballot initiative after previously permitting it. The two sides raised roughly $83 million combined, making it the most expensive social-issue ballot measure in U.S. history to that point; the pro-ban "Yes on 8" campaign raised about $39.9 million and was narrowly outraised by the "No on 8" opposition. Proposition 8 became a defining symbol of the cultural politics of 2008–2015, sparking nearly a decade of litigation, the landmark federal case *Perry v. Schwarzenegger*, and ultimately its own reversal in 2013–2015.
 
 ## Significance
 
@@ -37,7 +37,7 @@ The Prop 8 campaign revealed the power of ballot-measure organizing and the reli
 | January 11, 2010 | Federal trial begins in U.S. District Court (Chief Judge Vaughn Walker) |
 | August 4, 2010 | Judge Walker rules Prop 8 unconstitutional; enforcement stayed pending appeal |
 | February 7, 2012 | Ninth Circuit Court of Appeals upholds Walker's ruling; Prop 8 remains stayed |
-| June 26, 2013 | U.S. Supreme Court rules in *Hollingsworth v. Perry* (5–4, standing); Walker's ruling stands; same-sex marriages resume in California |
+| June 26, 2013 | U.S. Supreme Court rules in *Hollingsworth v. Perry* (5–4, standing); Walker's ruling stands. The Ninth Circuit lifts its stay two days later and same-sex marriages resume in California on June 28 |
 | June 26, 2015 | *Obergefell v. Hodges* legalizes same-sex marriage nationwide; Prop 8's repeal is rendered permanent |
 
 ## Background: In re Marriage Cases (May 15, 2008)
@@ -49,24 +49,23 @@ The *In re Marriage Cases* decision triggered an immediate political response: c
 ## Campaign Organization & Funding
 
 **Pro-Proposition 8 campaign** ("ProtectMarriage.com"):
-- Led by religious organizations (particularly the Roman Catholic Church, The Church of Jesus Christ of Latter-day Saints (LDS Church), and evangelical groups)
-- LDS Church contributed approximately $20–25 million (direct and indirect) — the largest institutional donor
+- Led by religious organizations (particularly the Roman Catholic Church, The Church of Jesus Christ of Latter-day Saints, and evangelical groups)
+- Individual Latter-day Saint donors contributed an estimated $20 million — roughly half the Yes on 8 total — after church leaders urged members to support the measure
 - Framed as a defense of "traditional marriage" and parental rights
 - Early polling showed the amendment trailing; the campaign's late push and messaging effectiveness swung opinion
-- Funding sources: $74 million total (nearly 90% of the $83 million spent on Prop 8)
+- Funding: approximately $39.9 million raised
 
 **Anti-Proposition 8 campaign** ("Equality California"):
 - Led by LGBTQ civil rights organizations
-- Outspent 5:1 by the Yes campaign
+- Actually outraised the Yes campaign, raising approximately $43.3 million (about 52% of the combined total)
 - Focused on "No on 8" messaging but struggled against the "protect marriage" framing
-- $9 million raised (only 10% of total spending)
-- Early polling favored No on 8; late erosion attributed to underfunding and messaging weakness
+- Early polling favored No on 8; the late swing to Yes is generally attributed to the Yes campaign's more effective advertising — notably ads warning that children would be "taught about gay marriage in school" — rather than any funding disadvantage
 
 ## Election Results & Demographics
 
 **Statewide vote:**
-- **Yes on 8 (ban same-sex marriage): 52.3%** (6.2 million)
-- **No on 8 (allow same-sex marriage): 47.7%** (5.6 million)
+- **Yes on 8 (ban same-sex marriage): 52.3%** (≈7.0 million)
+- **No on 8 (allow same-sex marriage): 47.7%** (≈6.4 million)
 
 **Regional & demographic breakdown:**
 - **Support for Prop 8 was highest among:**
@@ -121,13 +120,11 @@ Proposition 8 became the focal point of national LGBTQ advocacy and symbolized t
 
 ## Sources
 
-- Wikipedia: "California Proposition 8" and "In re Marriage Cases"
-- Wikipedia: "Perry v. Schwarzenegger" and "Obergefell v. Hodges"
-- Encyclopædia Britannica: "California Proposition 8" (LGBTQ rights context)
-- The New York Times: "How Prop 8 Changed the Marriage Equality Movement" (retrospective)
-- The Guardian: "Proposition 8 Reconsidered: The Five-Year Battle" (2013 retrospective)
-- Stanford Encyclopedia of Philosophy / Stanford Law Review: "Marriage Equality and Constitutional Law" (legal analysis)
-- Pew Research Center: "Public Opinion Trends on Same-Sex Marriage" (2008–2015 polling data)
+- [2008 California Proposition 8 — Wikipedia](https://en.wikipedia.org/wiki/2008_California_Proposition_8)
+- [In re Marriage Cases — Wikipedia](https://en.wikipedia.org/wiki/In_re_Marriage_Cases)
+- [Hollingsworth v. Perry — Wikipedia](https://en.wikipedia.org/wiki/Hollingsworth_v._Perry)
+- ["More than $83 million spent on Prop 8" — NBC News (Associated Press), February 2, 2009](https://www.nbcnews.com/id/wbna28985504)
+- ["The Money Behind the 2008 Same-Sex Partnership Ballot Measures" — National Institute on Money in State Politics (FollowTheMoney.org)](https://www.followthemoney.org/research/institute-reports/the-money-behind-the-2008-same-sex-partnership-ballot-measures)
 
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
