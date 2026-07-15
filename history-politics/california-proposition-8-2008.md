@@ -7,7 +7,7 @@ category: "History & Politics"
 # California Proposition 8 and Same-Sex Marriage Ban
 
 **Category:** History & Politics  
-**Key figures:** Gavin Newsom (California Governor), California Attorney General Jerry Brown, Chief Justice Ronald George (California Supreme Court); campaign organizations: Equality California (No on 8), ProtectMarriage.com (Yes on 8)
+**Key figures:** Gavin Newsom (Mayor of San Francisco), California Attorney General Jerry Brown, Chief Justice Ronald George (California Supreme Court); campaign organizations: Equality California (No on 8), ProtectMarriage.com (Yes on 8)
 
 ## Summary
 
@@ -82,7 +82,7 @@ The *In re Marriage Cases* decision triggered an immediate political response: c
   - College-educated voters (64% no)
   - Coastal urban areas (San Francisco Bay Area, Los Angeles County, coastal Southern California; 60–70% no)
 
-- **Surprise swing:** Prop 8 passed despite California voting for Obama (61%) and a Democratic state legislature. African American voters (70% Obama support) were thought to lean toward Prop 8 (52% yes); Latino voters split roughly 53% yes, 47% no. The religious-conservative coalition that supported Prop 8 transcended traditional Republican/Democratic lines, including conservative Democrats and religious minorities.
+- **Surprise swing:** Prop 8 passed despite California voting for Obama (61%) and a Democratic state legislature. African American voters, who overwhelmingly supported Obama, were initially reported by a CNN exit poll to have favored Prop 8 (an early estimate of about 70% yes that was later revised downward to roughly 58% by subsequent analysis); Latino voters split roughly 53% yes, 47% no. The religious-conservative coalition that supported Prop 8 transcended traditional Republican/Democratic lines, including conservative Democrats and religious minorities.
 
 ## Legal Aftermath & Perry v. Schwarzenegger
 

@@ -37,7 +37,7 @@ The attacks also reshaped global counterterrorism doctrine. The use of a small, 
 - [Mumbai Terror Attacks Fast Facts — CNN](https://edition.cnn.com/2013/09/18/world/asia/mumbai-terror-attacks)
 - [A Perfect Terrorist (David Headley) — PBS Frontline](https://www.pbs.org/wgbh/frontline/documentary/david-headley/)
 
-<!-- BEGIN GENERATED: related-links — maintained by build-structure; do not edit by hand -->
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
 - [Barack Obama Presidential Election](barack-obama-election.md) — The US presidential election held nine days before the attacks shifted global geopolitical attention as the crisis unfolded.
@@ -45,4 +45,4 @@ The attacks also reshaped global counterterrorism doctrine. The use of a small, 
 - [TARP Bailout](../society-economics/tarp-bailout.md) — Simultaneous global financial crisis dominating 2008 alongside the geopolitical crisis triggered by the attacks.
 - [2008 Russo-Georgian War](russo-georgian-war.md) — Another 2008 crisis exposing the fragility of the post-Cold War security order and the limits of international frameworks to contain state and non-state violence.
 - [Cyclone Nargis](../society-economics/cyclone-nargis.md) — A second 2008 catastrophe in Asia where institutional failure compounded human loss — the cyclone through the junta's obstruction of relief, the attacks through gaps in maritime and intelligence security.
-<!-- END GENERATED: related-links -->
+<!-- END GENERATED: crossrefs -->

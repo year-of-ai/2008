@@ -36,11 +36,11 @@ From a global perspective, the US government's decisive intervention — combine
 - [Troubled Asset Relief Program (TARP) — US Department of the Treasury](https://home.treasury.gov/data/troubled-asset-relief-program)
 - [TARP: Implementation and Status — Congressional Research Service / Congress.gov](https://www.congress.gov/crs-product/R41427)
 
-<!-- BEGIN GENERATED: related-links — maintained by build-structure; do not edit by hand -->
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
 - [Lehman Brothers Collapse](lehman-brothers-collapse.md) — The September 15 Lehman bankruptcy was the proximate trigger that accelerated Congressional action on TARP.
 - [Barack Obama Presidential Election](../history-politics/barack-obama-election.md) — TARP was signed one month before the election whose economic context it helped define.
 - [2008 Mumbai Terrorist Attacks](../history-politics/mumbai-terrorist-attacks.md) — Simultaneous geopolitical crisis dominating the final weeks of 2008 alongside the financial response.
 - [Bitcoin Whitepaper Published](../science-technology/bitcoin-whitepaper.md) — Published weeks after TARP, the Bitcoin whitepaper offered a vision of money beyond the bailout-era banking system; its 2009 genesis block embedded a bank-rescue headline.
-<!-- END GENERATED: related-links -->
+<!-- END GENERATED: crossrefs -->
