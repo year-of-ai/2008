@@ -2,6 +2,7 @@
 title: The Year 2008 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 2008 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-2008-knowledge-index.svg
 ---
 
 # The Year 2008
@@ -79,3 +80,6 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2007](http
 | [Grand Theft Auto IV released]({{ '/news/science-technology/grand-theft-auto-iv/' | relative_url }}) | Rockstar's open-world crime epic launched April 29 and grossed over $500 million in its first week, validating the blockbuster budget model of AAA game development. |
 | [Metal Gear Solid 4 released]({{ '/news/science-technology/metal-gear-solid-4/' | relative_url }}) | Hideo Kojima's PlayStation 3-exclusive stealth epic launched June 12, concluding the Metal Gear saga and showcasing the console's cinematic and technical ceiling. |
 | [Sarah Palin named McCain's running mate]({{ '/news/history-politics/sarah-palin-vp-selection/' | relative_url }}) | John McCain named Alaska governor Sarah Palin on August 29, the first woman on a Republican presidential ticket, energizing conservatives while raising readiness doubts. |
+| [Britney Spears placed under conservatorship]({{ '/news/people/britney-spears/' | relative_url }}) | A February 1 court placed pop star Britney Spears under a 13-year conservatorship, later fueling the #FreeBritney movement and conservatorship-law reform. |
+| [Tiger Woods wins the US Open on a torn ACL]({{ '/news/people/tiger-woods/' | relative_url }}) | Woods beat Rocco Mediate in a June 16 playoff while playing on a torn ACL and fractured tibia, claiming his 14th major title. |
+| [Cristiano Ronaldo wins the 2008 Ballon d'Or]({{ '/news/people/cristiano-ronaldo/' | relative_url }}) | After a 42-goal, double-winning season with Manchester United, Ronaldo won the December 2 Ballon d'Or, confirming him as the world's best player. |
