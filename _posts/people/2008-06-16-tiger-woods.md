@@ -22,7 +22,7 @@ The injury and comeback defined 2008 in golf and raised Woods to legendary statu
 
 ## Career Context and Dominance
 
-Born on December 30, 1975, Eldrick "Tiger" Tont Woods is the son of Earl Woods, a retired Army officer and accomplished golfer, and Kultida Punsawad, a Thai national. Woods demonstrated golfing prodigies from childhood, appearing on television programs as a young child and winning youth tournaments at remarkable rates. He turned professional in 1996 and won the 1997 Masters at age 21 by a record 12 strokes, immediately establishing himself as a generational talent.
+Born on December 30, 1975, Eldrick "Tiger" Tont Woods is the son of Earl Woods, a retired Army officer and accomplished golfer, and Kultida Punsawad, a Thai national. Woods was a golfing prodigy from childhood, appearing on television programs as a young child and winning youth tournaments at remarkable rates. He turned professional in 1996 and won the 1997 Masters at age 21 by a record 12 strokes, immediately establishing himself as a generational talent.
 
 By 2008, Woods had won 13 major championships — already the most in the modern era — and held the top world ranking for nearly a decade. His dominance was manifest across multiple dimensions: technical excellence, consistency, mental toughness, and physical athleticism that transcended typical stereotypes of professional golfers. He was the global face of golf and one of the world's highest-earning athletes.
 
